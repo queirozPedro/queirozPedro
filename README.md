@@ -3,7 +3,7 @@
 <p>
   <ul>
     <li> I'm a programming student at the Federal Rural University of the Semi-Arid <a href="https://ufersa.edu.br/" target="_blank" rel="external">Ufersa</a>. </li>
-    <li> I have a basic level in languages such as C and Java, and I'm looking to learn Python and Django. </li>
+    <li> I have a basic level in languages such as C and Java, and I'm looking to learn Python and JavaScript. </li>
     <li> My desire is to work in the Games area and I'm studying Unity and C#. </li>
   </ul>
 </p>

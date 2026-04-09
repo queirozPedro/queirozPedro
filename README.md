@@ -7,9 +7,3 @@
     <li> My desire is to work in the Games area and I'm studying Unity and C#. </li>
   </ul>
 </p>
-
-<h1>My Stats</h1>
-
-[![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=queirozPedro&show_icons=true&theme=radical)](https://github.com/queirozPedro)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozPedro&layout=compact&langs_count=6&theme=radical)](https://github.com/queirozPedro)

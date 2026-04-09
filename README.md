@@ -10,7 +10,6 @@
 
 <h1>My Stats</h1>
 
-![queirozPedro's Stats](https://github-readme-stats.vercel.app/api?username=queirozPedro&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+[![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=queirozPedro&show_icons=true&theme=radical)](https://github.com/queirozPedro)
 
-![queirozPedro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozPedro&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozPedro&layout=compact&langs_count=6&theme=radical)](https://github.com/queirozPedro)

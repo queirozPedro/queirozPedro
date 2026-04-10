@@ -1,9 +1,10 @@
-<h1>About Me</h1>
+<h1>Sobre</h1>
 
 <p>
   <ul>
-    <li> I'm a programming student at the Federal Rural University of the Semi-Arid <a href="https://ufersa.edu.br/" target="_blank" rel="external">Ufersa</a>. </li>
-    <li> I have a basic level in languages such as C and Java, and I'm looking to learn Python and JavaScript. </li>
-    <li> My desire is to work in the Games area and I'm studying Unity and C#. </li>
+    <li> Sou estudante de Engenharia de Software na Universidade Federal Rural do Semi-Árido (Ufersa). </li>
+    <li> Tenho experiência em linguagens como C, C#, Java, Python e JavaScript. </li>
+    <li> Atualmente estou explorando tecnologias como Angular, .NET e Node.js. </li>
+    <li> Tenho interesse em desenvolvimento de jogos, estudando Unity e C#, além de pesquisar sobre integração de Inteligência Artificial em jogos. </li>
   </ul>
 </p>
